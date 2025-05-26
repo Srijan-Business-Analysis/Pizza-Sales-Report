@@ -9,7 +9,7 @@ This project presents an interactive Tableau dashboard that analyzes key perform
 
 The pizza sales dataset is used for all analysis and visualizations.
 
-**Download the full dataset:** [pizza_sales_excel_file.csv](./pizza_sales_excel_file.csv)
+**Download the full dataset:** [pizza_sales_excel_file.csv](./pizza_sales_excel_file.xlsx)
 
 
 ---
@@ -18,7 +18,7 @@ The pizza sales dataset is used for all analysis and visualizations.
 
 All SQL queries used for calculating KPIs and generating charts are available here:
 
-👉 [PIZZA SALES SQL QUERIES](./PIZZA_SALES_SQL_QUERIES.md)
+👉 [PIZZA SALES SQL QUERIES](./PIZZA_SALES_SQL_QUERIES.docx)
 
 ---
 
