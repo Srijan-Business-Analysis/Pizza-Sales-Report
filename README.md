@@ -5,22 +5,22 @@
 
 This project presents an interactive Tableau dashboard that analyzes key performance indicators (KPIs), sales patterns, and product performance based on a pizza sales dataset.
 
-## 📂 Dataset Overview
+## 📂 Dataset
 
-The dataset contains detailed information about individual pizza orders, including:
+The pizza sales dataset is used for all analysis and visualizations.
 
-- `pizza_id`
-- `order_id`
-- `pizza_name_id`
-- `quantity`
-- `order_date`
-- `order_time`
-- `unit_price`
-- `total_price`
-- `pizza_size`
-- `pizza_category`
-- `pizza_ingredients`
-- `pizza_name`
+**Download the full dataset:** [pizza_sales_excel_file.csv](./pizza_sales_excel_file.csv)
+
+
+---
+
+## 📄 SQL Queries Document
+
+All SQL queries used for calculating KPIs and generating charts are available here:
+
+👉 [PIZZA SALES SQL QUERIES](./PIZZA_SALES_SQL_QUERIES.md)
+
+---
 
 ## 📊 KPIs Calculated
 
