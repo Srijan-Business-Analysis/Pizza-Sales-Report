@@ -18,7 +18,7 @@ The pizza sales dataset is used for all analysis and visualizations.
 
 All SQL queries used for calculating KPIs and generating charts are available here:
 
-👉 [PIZZA SALES SQL QUERIES](./PIZZA SALES SQL QUERIES.docx)
+👉 [Download Pizza Sales SQL Queries (DOCX)](./PIZZA%20SALES%20SQL%20QUERIES.docx)
 
 ---
 
